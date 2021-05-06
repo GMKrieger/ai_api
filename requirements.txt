@@ -17,7 +17,7 @@ docutils==0.14
 entrypoints==0.2.3
 fakeredis==0.9.0
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.6
 flask-restful-swagger-2==0.35
 gevent==1.2.2
