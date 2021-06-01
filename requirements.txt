@@ -104,7 +104,7 @@ Theano==1.0.1
 tornado==4.5.1
 tqdm==4.15.0
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 watchtower==0.4.1
 wcwidth==0.1.7
 webargs==1.8.1
