@@ -58,7 +58,7 @@ nbformat==4.3.0
 neo4j-driver==1.4.0
 neomodel==3.2.5
 nltk==3.2.4
-notebook==5.0.0
+notebook==6.4.12
 numexpr==2.6.2
 numpy==1.13.3
 pandas==0.21.1
